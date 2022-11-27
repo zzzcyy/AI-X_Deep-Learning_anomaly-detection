@@ -1,7 +1,7 @@
 # AI-X_Deep-Learning_anomaly-detection
 ## Title: Anomaly Detection
 ### Members: 
-- 장신의, 경영학과, 2019045514, zzzcyy@naver.com
+- 장신의, 경영학부, 2019045514, zzzcyy@naver.com
 - 유여홍, 경영학부, 2019071785, L1511742072@gmail.com
 - 강호묘, 경영학부, 2019079434, kanghomyo116@gmail.com
 - 유금양, 경영학부, 2019066880, 1051265066@qq.com
