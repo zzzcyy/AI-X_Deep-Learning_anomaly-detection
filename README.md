@@ -25,7 +25,7 @@ Voltage - Shows the voltage on the electric motor (Volt)
 RateRMS - Represents the circulation flow rate of the fluid inside the loop (Liter per minute)  
 anomaly - Shows if the point is anomalous (0 or 1)  
 changepoint - Shows if the point is a changepoint for collective anomalies (0 or 1)  
-
+![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/data.png)
 [https://github.com/waico/SKAB#datasets](url)
 ### III. Methodology
 - Explaining your choice of algorithms (methods)
