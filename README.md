@@ -46,6 +46,9 @@ For anomaly detection tasks, the larger the value of recall, the stronger the ab
 This image shows the result of the model prediction. Orange lines represent outliers predicted by the model, and blue lines represent true outliers. We can see that the model can distinguish outliers very well, but at the same time it will also misclassify some normal points as outliers. The precision corresponding to this picture is 0.58, the recall is 0.84, and the F1score is 0.68.  
 - (3) Change the parameters of the model  
 The isolation forest model has four main parameters. n_estimator, contamination, max_feature and max_samples.
+![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/parameters.PNG)  
+![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/search_model.PNG)  
+We try to process the data with different parameter values and try to find the optimal model parameters. We found the best configuration are n_estimator:100, contamination:0.16, precision:0.60, and recall:0.92. 
 
 ### V. Related Work (e.g., existing studies)
 - Tools, libraries, blogs, or any documentation that you have used to do this project.
