@@ -48,7 +48,7 @@ This image shows the result of the model prediction. Orange lines represent outl
 The isolation forest model has four main parameters. n_estimator, contamination, max_feature and max_samples.
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/parameters.PNG)  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/search_model.PNG)  
-We try to process the data with different parameter values and try to find the optimal model parameters. We found the best configuration are n_estimator:100, contamination:0.16, precision:0.60, and recall:0.92. 
+We try to process the data with different parameter values and try to find the optimal model parameters. We found the best configuration are n_estimator:100, contamination:0.16, max_feature:0.9, and max_samples:0.9. 
 
 ### V. Related Work (e.g., existing studies)
 - Tools, libraries, blogs, or any documentation that you have used to do this project.
