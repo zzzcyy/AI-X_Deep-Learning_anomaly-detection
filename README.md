@@ -55,4 +55,8 @@ We try to process the data with different parameter values and try to find the o
 Dataset: [https://github.com/waico/SKAB#datasets](url)  
 Method: Liu F T, Ting K M, Zhou Z H. Isolation forest[C]//2008 eighth ieee international conference on data mining. IEEE, 2008: 413-422.
 ### VI. Conclusion: Discussion  
-In this project, we used the isolation forest algorithm to detect anomalies on a small dataset. As far as the final result is concerned, the effect is very general. But in the process, we became more familiar with the data processing method and the use of the sklearn library. We also try to adjust the parameters of the model to improve the effect of the model.
+In this project, we used the isolation forest algorithm to detect anomalies on a small dataset. As far as the final result is concerned, the effect is very general. But in the process, we became more familiar with the data processing method and the use of the sklearn library. We also try to adjust the parameters of the model to improve the effect of the model.  
+Member 1：code  
+Member 2: code
+Member 3: analysis
+Member 4: youtube record
