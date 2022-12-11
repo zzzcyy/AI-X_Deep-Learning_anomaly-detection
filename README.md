@@ -40,6 +40,10 @@ For the binary classification problem of anomaly detection. Typically there are 
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/precision.PNG)  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/recall.PNG)  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/f1.PNG)  
+For anomaly detection tasks, the larger the value of recall, the stronger the ability of the model to detect anomalies. The larger the F1score, it means that the model has a good ability to identify abnormal points and normal points.  
+- (2) Graphs and results  
+![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/result.png)  
+This image shows the result of the model prediction. Orange lines represent outliers predicted by the model, and blue lines represent true outliers. We can see that the model can distinguish outliers very well, but at the same time it will also misclassify some normal points as outliers. The precision corresponding to this picture is 0.58, the recall is 0.84, and the F1score is 0.68.
 
 ### V. Related Work (e.g., existing studies)
 - Tools, libraries, blogs, or any documentation that you have used to do this project.
