@@ -38,6 +38,7 @@ IsolationForest Algorithm: Isolation Forest is an algorithm for data anomaly det
 For the binary classification problem of anomaly detection. Typically there are four situations.In the first case, the prediction is positive and the actual positive is also called true positive (TP). In the second case, the prediction is positive but the actual negative is called false positive (FP). In the third case, The prediction is negative and the actual positive is called false negative (FN). In the last case, the prediction is negative and the actual is negative, which is called true negative (TN). Each sample can only belong to these four cases A certain kind, there will be no other possibility.Next we can define accuracy, recall, precision and F1score.  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/accuracy.PNG)  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/precision.PNG)  
+![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/recall.PNG)  
 ![image](https://github.com/zzzcyy/AI-X_Deep-Learning_anomaly-detection/blob/main/img/f1.PNG)  
 
 ### V. Related Work (e.g., existing studies)
