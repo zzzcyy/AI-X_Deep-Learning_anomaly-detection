@@ -1,4 +1,4 @@
-# AI-X_Deep-Learning_anomaly-detection
+# AI-X_Deep-Learning_anomaly-detection [https://youtu.be/_TxCFetAPIY](url)
 ## Title: Anomaly Detection
 ### Members: 
 - 장신의, 경영학부, 2019045514, zzzcyy@naver.com
