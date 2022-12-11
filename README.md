@@ -51,5 +51,7 @@ The isolation forest model has four main parameters. n_estimator, contamination,
 We try to process the data with different parameter values and try to find the optimal model parameters. We found the best configuration are n_estimator:100, contamination:0.16, max_feature:0.2, and max_samples:0.9. Under this parameter setting, the best recall is 0.92, and the best F1score is 0.73.
 
 ### V. Related Work (e.g., existing studies)
-- Tools, libraries, blogs, or any documentation that you have used to do this project.
+- Tools, libraries, blogs, or any documentation that you have used to do this project.  
+Dataset: [https://github.com/waico/SKAB#datasets](url)  
+Method: Liu F T, Ting K M, Zhou Z H. Isolation forest[C]//2008 eighth ieee international conference on data mining. IEEE, 2008: 413-422.
 ### VI. Conclusion: Discussion
